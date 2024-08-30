@@ -12,11 +12,11 @@
     "imageSrc": "skills/react.png"
   },
   {
-    "title": "Node",
+    "title": "javaScript",
     "imageSrc": "skills/node.png"
   },
   {
-    "title": "GraphQL",
+    "title": "vite",
     "imageSrc": "skills/graphql.png"
   },
   {
@@ -26,5 +26,17 @@
   {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "tailwind",
+    "imageSrc": "skills/tailwind.png"
+  },
+  {
+    "title": "C",
+    "imageSrc": "skills/c.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
   }
 ]

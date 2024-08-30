@@ -21,16 +21,16 @@
   flex-direction: column;
   justify-content: space-evenly;
   margin-top: 14px;
+  align-items: center;
 }
 
 .skills {
-  width: 45%;
+  width: 60%;
   display: flex;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
   gap: 40px;
   flex-direction: row;
   justify-content: space-between;
-  /* align-items: center; */
 }
 
 .skill {
