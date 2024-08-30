@@ -2,25 +2,22 @@
   {
     "title": "Url shortener",
     "imageSrc": "projects/UrlShort.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "ShortURL allows to shorten long links from Instagram, Facebook, YouTube, Twitter, Linked In, blogs and sites.",
+    "skills": ["Next", "Tailwind", "Node"],
+    "source": "https://github.com/sourav0009/URL-shortner2.0"
   },
   {
     "title": "Todo list App",
     "imageSrc": "projects/Todo.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "this to-do list is a simple organizational tool used to keep track of tasks and activities that need to be completed.",
+    "skills": ["React", "Express", "Node"],
+    "source": "https://github.com/sourav0009/ToDo-List-App"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Weather Forecast ",
+    "imageSrc": "projects/weather.png",
+    "description": "Its a simple gui application using Python's Tkinter library, associated with a weather api to display weather forecast results for any city.",
+    "skills": ["Python","tkinter"],
+    "source": "https://github.com/sourav0009/Weather"
   }
 ]
