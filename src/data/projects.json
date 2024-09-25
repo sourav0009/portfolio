@@ -2,22 +2,22 @@
   {
     "title": "Url shortener",
     "imageSrc": "projects/UrlShort.png",
-    "description": "ShortURL allows to shorten long links from Instagram, Facebook, YouTube, Twitter, Linked In, blogs and sites.",
+    "description": "ShortURL allows to shorten long links from Instagram, Facebook, YouTube, Twitter etc",
     "skills": ["Next", "Tailwind", "Node"],
     "source": "https://github.com/sourav0009/URL-shortner2.0"
   },
   {
-    "title": "Todo list App",
-    "imageSrc": "projects/Todo.png",
-    "description": "this to-do list is a simple organizational tool used to keep track of tasks and activities that need to be completed.",
-    "skills": ["React", "Express", "Node"],
-    "source": "https://github.com/sourav0009/ToDo-List-App"
+    "title": "Food App",
+    "imageSrc": "projects/food.jpeg",
+    "description": "this is a food app where all Veg and NonVeg food are available.in card system wise.",
+    "skills": ["Vite-React", "Tailwind", "Ts"],
+    "source": "https://github.com/sourav0009/Food-Card"
   },
   {
-    "title": "Weather Forecast ",
-    "imageSrc": "projects/weather.png",
-    "description": "Its a simple gui application using Python's Tkinter library, associated with a weather api to display weather forecast results for any city.",
-    "skills": ["Python","tkinter"],
-    "source": "https://github.com/sourav0009/Weather"
+    "title": "Bloge Applection",
+    "imageSrc": "projects/bloge.png",
+    "description": "A blog application is a web or mobile application with two sets of users: bloggers and readers.",
+    "skills": ["Vite-react","Tailwind"],
+    "source": "https://github.com/sourav0009/BlogApplaction/tree/main/client"
   }
 ]
